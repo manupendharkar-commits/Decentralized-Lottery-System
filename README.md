@@ -261,9 +261,9 @@ For support, questions, or feature requests:
 
 **⭐ Star this repo if you found it helpful! ⭐**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by[TEAM: Code & Coin](https://github.com/code & coin)
 
-[Demo](https://your-demo-link.com) • [Documentation](https://your-docs-link.com) • [Report Bug](https://github.com/yourusername/fortune-coins/issues)
+[Demo](https://code & coin.com) • [Documentation](https://code & coin) • [Report Bug](https://github.com/code & coin/fortune-coins/issues)
 
 </div>
 
