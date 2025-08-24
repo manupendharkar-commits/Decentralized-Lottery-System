@@ -6,6 +6,11 @@ A premium React-based gaming platform featuring lottery draws and mini-games wit
 
 
 
+DECENTRALIZED LOTTERY SYSTEMS
+• Title: Decentralized Lottery System on Aptos: A Revolution in Trust and Transparency
+• Subtitle: Leveraging Move and Aptos for a Provably Fair Gaming Experience 
+• Presented By: CODE & COIN TEAM (Arnav, Manaswi, Sadiya) • Date: [23,24 Aug2025]
+
 ## ✨ Features
 
 ### 🎯 Lottery System
@@ -261,12 +266,6 @@ Made with ❤️ by [Your Name](https://github.com/yourusername)
 [Demo](https://your-demo-link.com) • [Documentation](https://your-docs-link.com) • [Report Bug](https://github.com/yourusername/fortune-coins/issues)
 
 </div>
-            DECENTRALIZED LOTTERY SYSTEMS
-
- •  Title: Decentralized Lottery System on Aptos: A Revolution in Trust and Transparency   
- • Subtitle: Leveraging Move and Aptos for a Provably Fair Gaming Experience
- •  Presented By: CODE & COIN TEAM (Arnav, Manaswi, Sadiya)
- •  Date: [23,24 Aug2025]
 
 SCREENSHOT: 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/652e0a07-6318-4343-8a65-9c1083b7fa61" />
