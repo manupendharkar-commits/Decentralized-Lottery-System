@@ -3,6 +3,9 @@
 A premium React-based gaming platform featuring lottery draws and mini-games with real-time prize pools and interactive gameplay.
 
 ![Fortune Coins Banner](https://via.placeholder.com/800x200/4A5568/FFFFFF?text=Fortune+Coins+-+Premium+Gaming+Destination)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5ecf93f9-7bfa-4f1c-bad1-93bd6bb3ac99" />
+
+
 
 ## ✨ Features
 
